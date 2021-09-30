@@ -14,6 +14,6 @@ int main()
     cout << "At х = " << x << ", b = " << b << endl;
     cout << fixed;
     cout.precision(2);
-    cout << "y = " << y << ", s = " << s;
+    cout << "y = " << y << ", s = " << s <<endl;
 }
 
