@@ -11,3 +11,4 @@ int main()
 	f1 = pow(e, x * cos(pi / 4)) * cos(z * sin(pi / 4));
 	cout << "f = " << f1<<endl;
 }
+
